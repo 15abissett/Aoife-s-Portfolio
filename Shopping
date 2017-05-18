@@ -1,0 +1,14 @@
+print("welcome to my shop")
+print("this is a clothes shop mah dudes")
+clothes=['jeans','shirt','shoes','hat','socks']
+if choice=="jeans":
+  print("nice choice!")
+   
+elif choice=="hat":
+  print("keep warmm")
+
+else:
+  print("we dont sell that bud")
+  
+#iloveshopping
+    
