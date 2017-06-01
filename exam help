@@ -1,0 +1,37 @@
+print("welcome to the All Ireland Final!")
+print("this hurling clash is between Tipperary and Galway")
+commentators= ['michael','paddy','john']
+#refthrowsinball
+print("tipperary win the throw in")
+while True:
+        print("joey glynn on da balll")
+if player=="passes":
+  print("ah you shoulda went yourself!")
+   
+elif player=="solos the ball":
+  print("your away!!!")
+     
+else:
+  print("what are you playing at???")
+def score():
+  print("Tipperary up by 4 points at half time!")
+sleep(10)
+ball=input("guess how fast its going???")
+  print("a hundred miles an hour!")
+print("im hungry im gonna buy some food")
+shop=['coke','chips','sweets','crisps']
+
+if choice=="coke":
+  print("gerrup")
+
+elif choice=="sweets":
+  print("nahhh")
+
+else:
+  print("yummyyyy")
+
+
+  
+    
+
+    
