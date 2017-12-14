@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    
+    
+    
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Intel infotainment system</title>
+         <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Intel-logo.svg/2000px-Intel-logo.svg.png" width="300"></center>
+         <img src="https://www.google.ie/search?biw=1366&bih=662&tbm=isch&sa=1&q=tesla+car+infotainment+model+3&oq=tesla+car+infotainment+model+3&gs_l=psy-ab.3...24278.25730.0.26520.8.8.0.0.0.0.116.685.6j2.8.0....0...1.1.64.psy-ab..0.0.0....0.wKk62E_xLDk#imgrc=OP0iynZonf3woM:">
+    </head>
+      
+    <body>
+        
+        div {
+background: linear-gradient(to bottom, #33ccff 0%, #ccff99 100%);
+}
+
+
+<h2>Speed</h2>
+<p>The Model 3, a dual motor all-wheel drive vehicle has a governed top speed of 155 mph (250 km/h) and it accelerates from 0 to 60 miles per hour (0 to 97 km/h) in 3.2 seconds (tested to 3.1 seconds), under "Insane Mode", with 1g of acceleration.</p>
+
+<li>Elon Musk did not actually find Tesla!</li>
+<li>Tesla are going to be removing their side mirrors from their cars and replacing them with side cameras!</li>
+    </body>
+       
+     <style> 
+         p{ 
+             color: rgb(18, 123, 202);
+                      }
+        
+</style>    
+  
+  
+    
+    
+        <h1>Index</h1>		
+        <li><a href="#tesla">Tesla</a></li>		
+        <li><a href="#mod3">Model 3</a></li>		
+        <li><a href="#intel">Intel</a></li>		
+        <li><a href="#isystem">Infotainment System</a></li>	
+        <li><a href="#rdate">Model 3 Release Date</a></li>  
+        <li><a href="#sgraph">Car Sales Graph</a></li>		
+       
+        <center><h1 id="tesla">Tesla</h1>
+        <p>Tesla is car company founded by Elon Musk.<br> The company was founded in 2003 in Palo Alto, California. <br> The company is named after the electrical engineer and physicist Nikola Tesla. <br> These cars are electric powered rather than diesel powered, this means that they both help the environment and look stylish while doing so. <br> The model S was the worlds best selling electic car for 2015 and 2016. <br> It's sales reched 150,000 units in November 2016.  <br> In September the company released its model x car. <br> The problem about these eco friendly cars is that they have a pricetag of upwards of $70,000. <br> Tesla have created a new car to solve this problem.</p>
+        <img src="http://thenewswheel.com/wp-content/uploads/2015/10/Tesla-T-logo.jpg" height="120">
+        <h1 id="mod3">Model 3</h1>
+        <p>The Model 3 is the new car that Tesla has created.<br>It is a solution to the higher price of previous Tesla cars.<br>It only costs $35,000 plus $1,000 delivery charge.<br>This allows people easier access to electric cars which means that it is easier to play your part in helping the environment.<br>A fully charged Model 3 drives 250 miles.<br>It costs 14 euro to fully charge the Model 3, but it cost 50 euro to fill up your fuel at a petrol station.</p>
+        <img src="https://file.kbb.com/kbb/vehicleimage/evoxseo/cp/l/11190/2016-tesla-model%20x-front_11190_032_640x480_evox02.png" height="120">
+        
+        <h1 id="intel">Intel</h1>
+        <p>Intel is a technology company founded by Gordon Moore and Robert Royce on July 18, 1968.<br> It is the world's second largest and second highest valued semiconductor chip makers. Its headquarters are in Santa Clara, Californisa.<br>Intel makes and supplies procesors to computer manufacturers.<br>Intel is renowned for the processor chips that they create. These processors are utilised in many modern computers such as those made by Dell and HP</p>
+        <img src="https://www.intel.com/etc/designs/intel/us/en/images/printlogo.png" height="120">
+        <h1 id="isystem">Infotainement system</h1>
+        <p>Intel will be manufacturing the infortainment ststem for the new Tesla model 3.<br>This screen in the centre of the dashboard is responsible for displaying navigation directions, speed and auto pilot.<br> The infotainment system in the model 3, as previously stated, will be made by intel rather than the company Tesla previously used to produce the system.<br>The infotainment system has many features such as radio, internet, onboard maps and navigation, voice activated control buttons, bluetooth, a 15 inch touch screen, dual zone climate control system, 2 usb ports, keyless entry and remote climate control using tesla app, voice activated control.</p>
+        <img src="http://static4.businessinsider.com/image/528a7d3e6bb3f72232f098c0-1190-625/the-infotainment-system-in-the-tesla-model-s-blew-me-away.jpg" height="150">
+ <h1 id="rdate">Release date</h1>       
+ <p>The Model 3 has a nearly barren dashboard with only a center-mounted LCD touchscreen.<br>Limited production of the Model 3 began in July 2017, with the first production vehicle rolling off the assembly line on July 7, 2017 and the official launch and delivery of the first 30 cars on July 28.</p>                               
+ <h2>Model 3 specs</h2><p>1)Safety- Automatic emergency braking and collision avoidance, eight airbags, electronic stability and traction control</p>
+ <p>Covenience- 15" touchscreen with onboard maps and navigation, voice activated controls and keyless entry</p>
+ <p>Standard Interior- Dual zone climate conrol, textile seatingcenter console with open storage and two USB ports</p>
+
+ <h2> Acceleration</h2>
+<p>Model 3 is able to accelerate to 60 mph in 6 seconds. Tesla, however, has been testing a Model 3 mule with a 70 kWh battery pack that could bump the range to 300 miles!<p>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/t_original/jjqxjuhkpwgk7ldfghmj.png" height="150">
+ </body>
+ 
+<h1 id=sgraph">Car sales graph</h1>
+<img src="https://insideevs.com/wp-content/uploads/2014/07/tesla-potential-annual-sales_large.png" height="200"></centre>
+                                                                                                               
+      
+ </html>
