@@ -119,11 +119,12 @@ and is wrapped around the whole page content, except for the footer in this exam
       <div class="w3-container w3-white w3-margin w3-padding-large">
         <div class="w3-center">
           <h3>Competitions</h3>
+          <p> We compete all over Ireland and Scotland from May to August every year. On average we have 9/10 competitions a year. We travel to Scotland 4 times a year for Majors ( British, Scottish, Eurpoean, and World Championships), luckily the UK championships are in Stormont in Belfast. Luckily the Ulster, Bangor, Lisburn and All Ireland Champiopnships are only up the north. Travelling is a major part of pipe band, and it can be expensive. Our biggest journey is Forres for the European Championships, we have to travel over 6 hours on a bus after a short one hour flight... at 6 in the morning! We then compete the next day and are well rested. Worlds is by far the biggest competition, with almost 300 bands competing every year. Being in the highest grade ( Grade 1) we have two days of competing and the other grades only compete on the 2nd day. In the qualifiers (1st day) we have to play a medley and MSR and place in the top 6 to qualify for the finals tomorrow- we have qualified every year coming mostly in 1st and 2nd and winning the drumming. The next day up to 30,000 people gather around the huge main arena and watch the grade one finals. We have stayed consistently in the top 3, and the year we did the concert (2010) we won. We are doing the concert again this year so I hope we can do it this year!
           <h5> <span class="w3-opacity">Jan 2018</span></h5>
         </div>
 
         <div class="w3-justify">
-          <img src="/w3images/runway.jpg" alt="Runway" style="width:100%" class="w3-padding-16">
+          <img src="https://i.pinimg.com/originals/57/76/29/577629b08fd59f85dfe8a5998f91659f.jpg">
           <p></p>
           <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
           <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">3</span></button></p>
@@ -170,10 +171,10 @@ and is wrapped around the whole page content, except for the footer in this exam
     <div class="w3-col l4">
       <!-- About Card -->
       <div class="w3-white w3-margin">
-        <img src="/w3images/avatar_girl2.jpg" alt="Jane" style="width:100%" class="w3-grayscale">
+        <img src="https://pbs.twimg.com/profile_images/652455021691424768/G5YiIpvW_400x400.png">
         <div class="w3-container w3-black">
-          <h4>My Name</h4>
-          <p>Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest of lorem ipsum and mauris neque quam blog. I want to share my world with you.</p>
+          <h4>About me</h4>
+          <p>This will be my first year in O Tooles following a successful solo season winning the Leinster and All Ireland title, I can't wait to compete with one of the worlds finest pipe bands!</p>
         </div>
       </div>
       <hr>
@@ -185,28 +186,29 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
         <ul class="w3-ul w3-hoverable w3-white">
           <li class="w3-padding-16">
-            <img src="/w3images/avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-            <span class="w3-large">Denim</span>
+          
+            <span class="w3-large">Band Results</span>
+
             <br>
-            <span>Sed mattis nunc</span>
+            <span>Competitions summary 2017</span>
           </li>
           <li class="w3-padding-16">
-            <img src="/w3images/bandmember.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-            <span class="w3-large">Sweaters</span>
+         
+            <span class="w3-large">National Concert Hall</span>
             <br>
-            <span>Praes tinci sed</span>
+            <span>Performance October 2017</span>
           </li>
           <li class="w3-padding-16">
-            <img src="/w3images/workshop.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-            <span class="w3-large">Workshop</span>
+    
+            <span class="w3-large">Solo Results</span>
             <br>
-            <span>Ultricies congue</span>
+            <span>Success at World and All Irelands</span>
           </li>
           <li class="w3-padding-16">
-            <img src="/w3images/avatar_smoke.jpg" alt="Image" class="w3-left w3-margin-right w3-sepia" style="width:50px">
-            <span class="w3-large">Trends</span>
+          
+            <span class="w3-large">Plan for year ahead</span>
             <br>
-            <span>Lorem ipsum dipsum</span>
+            <span>Dates for your diary!</span>
           </li>
         </ul>
       </div>
@@ -220,6 +222,7 @@ and is wrapped around the whole page content, except for the footer in this exam
         <div class="w3-container w3-white">
           <div class="w3-container w3-display-container w3-light-grey w3-section" style="height:200px">
             <span class="w3-display-middle">Your AD Here</span>
+           
           </div>
         </div>
       </div>
@@ -232,8 +235,8 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
         <div class="w3-container w3-white">
           <p>
-            <span class="w3-tag w3-black w3-margin-bottom">Fashion</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">London</span>
-            <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Hats</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Norway</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Sweaters</span>
+            <span class="w3-tag w3-black w3-margin-bottom">Premier Drums</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Stephen Creighton drumming</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Band Results</span>
+            <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Uniform</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Shop</span>
             <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Deals</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Accessories</span>
             <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Shopping</span>
             <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Jeans</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Trends</span>
@@ -335,4 +338,5 @@ function likeFunction(x) {
 
 </body>
 </html>
+
 
